@@ -1,6 +1,6 @@
 var playlist = { 
-  Madonna: "Like a virgin",
-  Prince: "Get up",
+  artistName: "songtitle",
+  artistName: "songtitle",
   
 }
 function updatePlaylist (playlist, "Kent", "Sverige") {
