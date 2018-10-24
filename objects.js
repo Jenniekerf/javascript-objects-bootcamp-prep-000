@@ -1,10 +1,9 @@
 var playlist = { 
-  artistName: "songtitle",
-  artistName: "songtitle",
+  artistName: "songTitle",
   
 }
-function updatePlaylist (playlist, "Kent", "Sverige") {
-  playlist[Kent] = "Sverige";
+function updatePlaylist (playlist, artistName, songTitle) {
+  playlist[artistName] = "songTitle";
   return playlist;
 }
 
