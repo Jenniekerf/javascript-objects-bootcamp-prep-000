@@ -4,6 +4,7 @@ var playlist = {
   U2: "Where the streets have no name",
 }
 function updatePlaylist (playlist, "Kent", "Sverige") {
-  playlist[Kent] = value
+  playlist[Kent] = "Sverige";
+  return playlist;
 }
 
