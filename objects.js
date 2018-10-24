@@ -3,3 +3,4 @@ var playlist = {
   Prince: "Get up",
   U2: "Where the streets have no name",
 }
+function updatePlaylist (playlist, "Prince", "Get up")
